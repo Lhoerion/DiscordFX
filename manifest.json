@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "F:/Git/Todd-Documentation/templates/discordfx/docfx_project",
+  "source_base_path": "F:/Git/Todd-Documentation/templates/discordfx/demo",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -14,11 +14,95 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "7w5ngIhTrXblZf1YvKmRaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "ohG9TYHhxf5zV4rVGnj2/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/content2.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/content2.html",
+          "hash": "f30AM9UJYttYVOkPxT/s6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/content3.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/content3.html",
+          "hash": "FtJ8wUH9B8xMlrUbL0rJ9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/content4.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/content4.html",
+          "hash": "6A9Z2qfJTQtqXYMzSiEagQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/content5.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/content5.html",
+          "hash": "J10uoSlD9HqgtN1OR5ohXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/content6.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/content6.html",
+          "hash": "LjP+pnAk1KD8XQP5Un5DYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/intro.md",
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "x29rTbEGdpApcmWDz8OrsQ=="
+          "hash": "4aHVQkHqAQqT3qVBxB0WZA=="
         }
       },
       "is_incremental": false,
@@ -30,7 +114,62 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "nMEQQ5rs09Wi76zlSgFpzg=="
+          "hash": "Mz6c5hF3N2sRa6cVw1QADg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/discordfx-mobile-screenshots.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/discordfx-mobile-screenshots.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/discordfx-screenshot01.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/discordfx-screenshot01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/discordfx_screenshot_smartphone01.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/discordfx_screenshot_smartphone01.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/discordfx_screenshot_smartphone02.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/discordfx_screenshot_smartphone02.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/discordfx_screenshot_tablet01.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/discordfx_screenshot_tablet01.png"
         }
       },
       "is_incremental": false,
@@ -42,22 +181,19 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "uZIOKrMdnqWRmkxDNaPx2A=="
+          "hash": "9dhiKjAB1ZMWNaHcaLXOWA=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "CwhN/K/ouHgIFuRiilnQBQ=="
+          "hash": "6lhPK5DaQAgf9SwKb7Pr3g=="
         }
       },
       "is_incremental": false,
@@ -67,18 +203,23 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because config changed.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "ConfigChanged"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 2,
+          "total_file_count": 8,
+          "skipped_file_count": 7
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
